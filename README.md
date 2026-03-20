@@ -1,6 +1,6 @@
-# Awesome XXX Papers
+# Awesome Civil Flight Papers
 
-A curated list of papers, surveys, benchmarks, datasets, and code repositories on **XXX**.
+A curated list of papers, surveys, benchmarks, datasets, and code repositories on **civil flight**.
 
 ## Contents
 - [Surveys](#surveys)
@@ -18,6 +18,7 @@ A curated list of papers, surveys, benchmarks, datasets, and code repositories o
 
 ### Topic A
 - [Paper Title](paper_link), *Venue*, Year.
+- Yingxiao Kong, Xiaoge Zhang, and Sankaran Mahadevan. "Bayesian deep learning for aircraft hard landing safety assessment." IEEE transactions on intelligent transportation systems 23, no. 10 (2022): 17062-17076.
 
 ### Topic B
 - [Paper Title](paper_link), *Venue*, Year.
