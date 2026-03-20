@@ -2,7 +2,7 @@
 
 A curated list of papers, surveys, benchmarks, datasets, and code repositories on **civil flight**.
 
-![Taxonomy](img/civil flight.png)
+![Paper taxonomy](img/civil flight.png)
 
 ## Contents
 - [Surveys](#surveys)
