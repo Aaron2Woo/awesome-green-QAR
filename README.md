@@ -2,7 +2,7 @@
 
 A curated list of papers, surveys, benchmarks, datasets, and code repositories on **civil flight**.
 
-![figure](img/civil flight.png)
+- ![figure](img/civil flight.png)
 
 ## Contents
 - [Surveys](#surveys)
