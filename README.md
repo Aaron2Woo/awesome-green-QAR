@@ -4,6 +4,77 @@ A curated list of papers, surveys, benchmarks, datasets, and code repositories o
 
 ![figure](./img/civil_flight.png)
 
+
+## 📖 Paper
+
+### Selective Tuning
+
+#### Iterative Selective Tuning
+
+<table>
+  <thead>
+    <tr>
+      <th>Time</th>
+      <th>Title</th>
+      <th>Venue</th>
+      <th>Paper</th>
+      <th>Code</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>2024.10</td>
+      <td><b>AlphaEdit: Null-Space Constrained Knowledge Editing for Language Models</b></td>
+      <td>ICLR'24</td>
+      <td><a href="#">link</a></td>
+      <td><a href="#">link</a></td>
+    </tr>
+    <tr>
+      <td>2023.12</td>
+      <td><b>Sparse is Enough in Fine-tuning Pre-trained Large Language Models</b></td>
+      <td>ICML'24</td>
+      <td><a href="#">link</a></td>
+      <td><a href="#">link</a></td>
+    </tr>
+    <tr>
+      <td>2023.12</td>
+      <td><b>Gradient-based Parameter Selection for Efficient Fine-Tuning</b></td>
+      <td>CVPR'24</td>
+      <td><a href="#">link</a></td>
+      <td><a href="#">link</a></td>
+    </tr>
+    <tr>
+      <td>2023.11</td>
+      <td><b>Unified Low-Resource Sequence Labeling by Sample-Aware Dynamic Sparse Finetuning</b></td>
+      <td>EMNLP'23</td>
+      <td><a href="#">link</a></td>
+      <td><a href="#">link</a></td>
+    </tr>
+    <tr>
+      <td>2023.08</td>
+      <td><b>Overcoming Generic Knowledge Loss with Selective Parameter Update</b></td>
+      <td>CVPR'24</td>
+      <td><a href="#">link</a></td>
+      <td><a href="#">link</a></td>
+    </tr>
+    <tr>
+      <td>2023.06</td>
+      <td><b>LoSparse: Structured Compression of Large Language Models based on Low-Rank and Sparse Approximation</b></td>
+      <td>ICML'23</td>
+      <td><a href="#">link</a></td>
+      <td><a href="#">link</a></td>
+    </tr>
+    <tr>
+      <td>2022.10</td>
+      <td><b>ROSE: Robust Selective Fine-tuning for Pre-trained Language Models</b></td>
+      <td>IJCAI'22</td>
+      <td><a href="#">link</a></td>
+      <td><a href="#">link</a></td>
+    </tr>
+  </tbody>
+</table>
+
+
 ## Contents
 - [Surveys](#surveys)
 - [Benchmarks and Datasets](#benchmarks-and-datasets)
