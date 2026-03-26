@@ -4,12 +4,20 @@ A curated list of papers, surveys, benchmarks, datasets, and code repositories o
 
 ![figure](./img/civil_flight.png)
 
+## Contents
+- [Surveys](#surveys)
+- [Benchmarks and Datasets](#benchmarks-and-datasets)
+- [Methods](#methods)
+- [Resources](#resources)
+
+## Surveys
+- [Paper Title](paper_link), *Venue*, Year.
+
+## Benchmarks and Datasets
+- [Paper Title](paper_link), *Venue*, Year. [Code](code_link)
 
 ## 📖 Paper
-
-### Selective Tuning
-
-#### Iterative Selective Tuning
+## Methods
 
 <table>
   <thead>
@@ -73,21 +81,6 @@ A curated list of papers, surveys, benchmarks, datasets, and code repositories o
     </tr>
   </tbody>
 </table>
-
-
-## Contents
-- [Surveys](#surveys)
-- [Benchmarks and Datasets](#benchmarks-and-datasets)
-- [Methods](#methods)
-- [Resources](#resources)
-
-## Surveys
-- [Paper Title](paper_link), *Venue*, Year.
-
-## Benchmarks and Datasets
-- [Paper Title](paper_link), *Venue*, Year. [Code](code_link)
-
-## Methods
 
 ### Rule-, Threshold-, and Statistical Model-Based Methods
 - [Paper Title](paper_link), *Venue*, Year.
