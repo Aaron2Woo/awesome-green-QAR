@@ -19,6 +19,10 @@ A curated list of papers, surveys, benchmarks, datasets, and code repositories o
 ## 📖 Paper
 ## Methods
 
+### Rule-, Threshold-, and Statistical Model-Based Methods
+- [Paper Title](paper_link), *Venue*, Year.
+- Yingxiao Kong, Xiaoge Zhang, and Sankaran Mahadevan. "Bayesian deep learning for aircraft hard landing safety assessment." IEEE transactions on intelligent transportation systems 23, no. 10 (2022): 17062-17076.
+
 <table>
   <thead>
     <tr>
@@ -81,10 +85,6 @@ A curated list of papers, surveys, benchmarks, datasets, and code repositories o
     </tr>
   </tbody>
 </table>
-
-### Rule-, Threshold-, and Statistical Model-Based Methods
-- [Paper Title](paper_link), *Venue*, Year.
-- Yingxiao Kong, Xiaoge Zhang, and Sankaran Mahadevan. "Bayesian deep learning for aircraft hard landing safety assessment." IEEE transactions on intelligent transportation systems 23, no. 10 (2022): 17062-17076.
 
 ### Data Mining-Based Methods
 - [Paper Title](paper_link), *Venue*, Year.
