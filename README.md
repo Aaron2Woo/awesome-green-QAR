@@ -88,7 +88,8 @@ A curated list of papers, surveys, benchmarks, datasets, and code repositories o
 
 ### Data Mining-Based Methods
 - [Paper Title](paper_link), *Venue*, Year.
-- <table>
+
+  <table>
   <thead>
     <tr>
       <th>Time</th>
