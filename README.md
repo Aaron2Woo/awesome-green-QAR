@@ -88,6 +88,68 @@ A curated list of papers, surveys, benchmarks, datasets, and code repositories o
 
 ### Data Mining-Based Methods
 - [Paper Title](paper_link), *Venue*, Year.
+- <table>
+  <thead>
+    <tr>
+      <th>Time</th>
+      <th>Title</th>
+      <th>Venue</th>
+      <th>Paper</th>
+      <th>Code</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>2026.02</td>
+      <td><b>LSTM-Based Risk Identification for Civil Aircraft Tire Speed Limit Exceedance During Takeoff</b></td>
+      <td>Int. J. Aeronaut. Space Sci.</td>
+      <td><a href="https://doi.org/10.1007/s42405-026-01128-4">link</a></td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td>2025.04</td>
+      <td><b>Aircraft bleed air system fault detection based on MSE of LSTM and informer</b></td>
+      <td>Aerospace Systems</td>
+      <td><a href="https://doi.org/10.1007/s42401-024-00292-3">link</a></td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td>2025.03</td>
+      <td><b>Automated Anomaly Detection and Causal Analysis for Civil Aviation Using QAR Data</b></td>
+      <td>Applied Sciences</td>
+      <td><a href="https://doi.org/10.3390/app15052250">link</a></td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td>2024.06</td>
+      <td><b>Identification of Airline Turbulence Using WOA-CatBoost and QAR Data</b></td>
+      <td>Applied Sciences</td>
+      <td><a href="https://doi.org/10.3390/app14114419">link</a></td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td>2024.05</td>
+      <td><b>Low-level turbulence risk assessment and visualization using temporal rate of change of headwind of an aircraft</b></td>
+      <td>Journal of Big Data</td>
+      <td><a href="https://doi.org/10.1186/s40537-024-01032-2">link</a></td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td>2021.11</td>
+      <td><b>An incremental clustering method for anomaly detection in flight data</b></td>
+      <td>Transportation Research Part C</td>
+      <td><a href="https://doi.org/10.1016/j.trc.2021.103387">link</a></td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td>2021.07</td>
+      <td><b>Estimating runway veer-off risk from flight data through a Bayesian Network model</b></td>
+      <td>Transportation Research Part C</td>
+      <td><a href="https://doi.org/10.1016/j.trc.2021.103237">link</a></td>
+      <td>-</td>
+    </tr>
+  </tbody>
+</table>
 
 ### Machine Learning-Based Methods
 - [Paper Title](paper_link), *Venue*, Year.
