@@ -136,15 +136,6 @@ A curated list of papers, surveys, benchmarks, datasets, and code repositories o
       <td>-</td>
     </tr>
     <tr>
-      <th>Time</th>
-      <th>Title</th>
-      <th>Venue</th>
-      <th>Paper</th>
-      <th>Code</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
       <td>2026.09</td>
       <td><b>A dynamic spatio-temporal graph neural network adaptive to operating conditions: Learning evolutionary correlations in multi-sensor data for aero-engine</b></td>
       <td>Aerospace Science and Technology</td>
