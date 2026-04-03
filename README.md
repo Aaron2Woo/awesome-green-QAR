@@ -35,11 +35,6 @@ A curated list of papers, surveys, benchmarks, datasets, and code repositories o
   </thead>
   <tbody>
     <tr>
-      <td>2024.10</td>
-      <td><b>AlphaEdit: Null-Space Constrained Knowledge Editing for Language Models</b></td>
-      <td>ICLR'24</td>
-      <td><a href="#">link</a></td>
-      <td><a href="#">link</a></td>
       <td>2025.02</td>
       <td><b>Active Vision-Based Alarm System for Overrun Events of Takeoff and Landing Aircraft</b></td>
       <td>IEEE Sensors Journal</td>
@@ -47,11 +42,6 @@ A curated list of papers, surveys, benchmarks, datasets, and code repositories o
       <td>-</td>
     </tr>
     <tr>
-      <td>2023.12</td>
-      <td><b>Sparse is Enough in Fine-tuning Pre-trained Large Language Models</b></td>
-      <td>ICML'24</td>
-      <td><a href="#">link</a></td>
-      <td><a href="#">link</a></td>
       <td>2022.04</td>
       <td><b>Bayesian Deep Learning for Aircraft Hard Landing Safety Assessment</b></td>
       <td>IEEE Transactions on Intelligent Transportation Systems</td>
@@ -59,11 +49,6 @@ A curated list of papers, surveys, benchmarks, datasets, and code repositories o
       <td>-</td>
     </tr>
     <tr>
-      <td>2023.12</td>
-      <td><b>Gradient-based Parameter Selection for Efficient Fine-Tuning</b></td>
-      <td>CVPR'24</td>
-      <td><a href="#">link</a></td>
-      <td><a href="#">link</a></td>
       <td>2021.07</td>
       <td><b>Estimating runway veer-off risk from flight data through a Bayesian Network model</b></td>
       <td>Transportation Research Part C: Emerging Technologies</td>
@@ -71,11 +56,6 @@ A curated list of papers, surveys, benchmarks, datasets, and code repositories o
       <td>-</td>
     </tr>
     <tr>
-      <td>2023.11</td>
-      <td><b>Unified Low-Resource Sequence Labeling by Sample-Aware Dynamic Sparse Finetuning</b></td>
-      <td>EMNLP'23</td>
-      <td><a href="#">link</a></td>
-      <td><a href="#">link</a></td>
       <td>2021.11</td>
       <td><b>An incremental clustering method for anomaly detection in flight data</b></td>
       <td>Transportation Research Part C: Emerging Technologies</td>
@@ -83,11 +63,6 @@ A curated list of papers, surveys, benchmarks, datasets, and code repositories o
       <td>-</td>
     </tr>
     <tr>
-      <td>2023.08</td>
-      <td><b>Overcoming Generic Knowledge Loss with Selective Parameter Update</b></td>
-      <td>CVPR'24</td>
-      <td><a href="#">link</a></td>
-      <td><a href="#">link</a></td>
       <td>2022.10</td>
       <td><b>Takeoff runway overrun risk assessment in aviation safety based on human pilot behavioral characteristics from real flight data</b></td>
       <td>Safety Science</td>
@@ -95,11 +70,6 @@ A curated list of papers, surveys, benchmarks, datasets, and code repositories o
       <td>-</td>
     </tr>
     <tr>
-      <td>2023.06</td>
-      <td><b>LoSparse: Structured Compression of Large Language Models based on Low-Rank and Sparse Approximation</b></td>
-      <td>ICML'23</td>
-      <td><a href="#">link</a></td>
-      <td><a href="#">link</a></td>
       <td>2025</td>
       <td><b>A novel adaptive monitoring framework for detecting the abnormal states of aero-engines with maneuvering flight data</b></td>
       <td>Reliability Engineering &amp; System Safety</td>
@@ -107,11 +77,6 @@ A curated list of papers, surveys, benchmarks, datasets, and code repositories o
       <td>-</td>
     </tr>
     <tr>
-      <td>2022.10</td>
-      <td><b>ROSE: Robust Selective Fine-tuning for Pre-trained Language Models</b></td>
-      <td>IJCAI'22</td>
-      <td><a href="#">link</a></td>
-      <td><a href="#">link</a></td>
       <td>2023</td>
       <td><b>Analyzing the operation reliability of aeroengine using Quick Access Recorder flight data</b></td>
       <td>Reliability Engineering &amp; System Safety</td>
