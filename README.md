@@ -101,6 +101,9 @@ A curated list of papers, surveys, benchmarks, datasets, and code repositories o
       <td><b>QAR-Driven Dynamic Spatiotemporal Information Fusion for Prediction of Aircraft Carbon Emissions in Different Flight Phases</b></td>
       <td>Applied Energy</td>
       <td><a href="https://doi.org/10.1016/j.apenergy.2024.124646">link</a></td>
+      <td>-</td>
+    </tr>
+    <tr>
       <td>2025.02</td>
       <td><b>Active Vision-Based Alarm System for Overrun Events of Takeoff and Landing Aircraft</b></td>
       <td>IEEE Sensors Journal</td>
