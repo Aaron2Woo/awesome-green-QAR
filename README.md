@@ -40,6 +40,11 @@ A curated list of papers, surveys, benchmarks, datasets, and code repositories o
       <td>ICLR'24</td>
       <td><a href="#">link</a></td>
       <td><a href="#">link</a></td>
+      <td>2025.02</td>
+      <td><b>Active Vision-Based Alarm System for Overrun Events of Takeoff and Landing Aircraft</b></td>
+      <td>IEEE Sensors Journal</td>
+      <td><a href="https://doi.org/10.1109/JSEN.2024.3514703">link</a></td>
+      <td>-</td>
     </tr>
     <tr>
       <td>2023.12</td>
@@ -47,6 +52,11 @@ A curated list of papers, surveys, benchmarks, datasets, and code repositories o
       <td>ICML'24</td>
       <td><a href="#">link</a></td>
       <td><a href="#">link</a></td>
+      <td>2022.04</td>
+      <td><b>Bayesian Deep Learning for Aircraft Hard Landing Safety Assessment</b></td>
+      <td>IEEE Transactions on Intelligent Transportation Systems</td>
+      <td><a href="https://doi.org/10.1109/TITS.2022.3162566">link</a></td>
+      <td>-</td>
     </tr>
     <tr>
       <td>2023.12</td>
@@ -54,6 +64,11 @@ A curated list of papers, surveys, benchmarks, datasets, and code repositories o
       <td>CVPR'24</td>
       <td><a href="#">link</a></td>
       <td><a href="#">link</a></td>
+      <td>2021.07</td>
+      <td><b>Estimating runway veer-off risk from flight data through a Bayesian Network model</b></td>
+      <td>Transportation Research Part C: Emerging Technologies</td>
+      <td><a href="https://doi.org/10.1016/j.trc.2021.103237">link</a></td>
+      <td>-</td>
     </tr>
     <tr>
       <td>2023.11</td>
@@ -61,6 +76,11 @@ A curated list of papers, surveys, benchmarks, datasets, and code repositories o
       <td>EMNLP'23</td>
       <td><a href="#">link</a></td>
       <td><a href="#">link</a></td>
+      <td>2021.11</td>
+      <td><b>An incremental clustering method for anomaly detection in flight data</b></td>
+      <td>Transportation Research Part C: Emerging Technologies</td>
+      <td><a href="https://doi.org/10.1016/j.trc.2021.103406">link</a></td>
+      <td>-</td>
     </tr>
     <tr>
       <td>2023.08</td>
@@ -68,6 +88,11 @@ A curated list of papers, surveys, benchmarks, datasets, and code repositories o
       <td>CVPR'24</td>
       <td><a href="#">link</a></td>
       <td><a href="#">link</a></td>
+      <td>2022.10</td>
+      <td><b>Takeoff runway overrun risk assessment in aviation safety based on human pilot behavioral characteristics from real flight data</b></td>
+      <td>Safety Science</td>
+      <td><a href="https://doi.org/10.1016/j.ssci.2022.105992">link</a></td>
+      <td>-</td>
     </tr>
     <tr>
       <td>2023.06</td>
@@ -75,6 +100,11 @@ A curated list of papers, surveys, benchmarks, datasets, and code repositories o
       <td>ICML'23</td>
       <td><a href="#">link</a></td>
       <td><a href="#">link</a></td>
+      <td>2025</td>
+      <td><b>A novel adaptive monitoring framework for detecting the abnormal states of aero-engines with maneuvering flight data</b></td>
+      <td>Reliability Engineering &amp; System Safety</td>
+      <td><a href="https://doi.org/10.1016/j.ress.2025.110910">link</a></td>
+      <td>-</td>
     </tr>
     <tr>
       <td>2022.10</td>
@@ -82,9 +112,50 @@ A curated list of papers, surveys, benchmarks, datasets, and code repositories o
       <td>IJCAI'22</td>
       <td><a href="#">link</a></td>
       <td><a href="#">link</a></td>
+      <td>2023</td>
+      <td><b>Analyzing the operation reliability of aeroengine using Quick Access Recorder flight data</b></td>
+      <td>Reliability Engineering &amp; System Safety</td>
+      <td><a href="https://doi.org/10.1016/j.ress.2023.109193">link</a></td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td>2023</td>
+      <td><b>Gas path deterioration observation based on stochastic dynamics for reliability assessment of aeroengines</b></td>
+      <td>Reliability Engineering &amp; System Safety</td>
+      <td><a href="https://doi.org/10.1016/j.ress.2023.109458">link</a></td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td>2025.04</td>
+      <td><b>Wake vortex safety assessment during cruise using a regional medium-short-range turbofan aircraft as an example</b></td>
+      <td>Chinese Journal of Aeronautics</td>
+      <td><a href="https://doi.org/10.1016/j.cja.2024.10.015">link</a></td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td>2024.09</td>
+      <td><b>Assessment of piloting behavior impact on landing risk of transport aircraft</b></td>
+      <td>Chinese Journal of Aeronautics</td>
+      <td><a href="https://doi.org/10.1016/j.cja.2024.05.007">link</a></td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td>2025.03</td>
+      <td><b>Developing an aircraft takeoff mass estimation model based on the hybrid KMI-DNN-BI model using quick access recorder (QAR) data</b></td>
+      <td>Aerospace Science and Technology</td>
+      <td><a href="https://doi.org/10.1016/j.ast.2024.109918">link</a></td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td>2025.09</td>
+      <td><b>Pilot intention generation mechanism: Insights from the flight risk field model</b></td>
+      <td>Aerospace Science and Technology</td>
+      <td><a href="https://doi.org/10.1016/j.ast.2025.110377">link</a></td>
+      <td>-</td>
     </tr>
   </tbody>
 </table>
+
 
 ### Data Mining-Based Methods
 - [Paper Title](paper_link), *Venue*, Year.
