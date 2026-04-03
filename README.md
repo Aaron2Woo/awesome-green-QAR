@@ -135,11 +135,6 @@ A curated list of papers, surveys, benchmarks, datasets, and code repositories o
       <td><a href="https://doi.org/10.1186/s40537-024-01032-2">link</a></td>
       <td>-</td>
     </tr>
-  </tbody>
-</table>
-
-<table>
-  <thead>
     <tr>
       <th>Time</th>
       <th>Title</th>
