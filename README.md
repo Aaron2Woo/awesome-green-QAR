@@ -277,10 +277,7 @@ A curated list of papers, surveys, benchmarks, datasets, and code repositories o
   </tbody>
 </table>
 
-### Machine Learning-Based Methods
-- [Paper Title](paper_link), *Venue*, Year.
-
-### Deep Learning-Based Temporal Modeling Methods
+### Machine Learning & Deep Learning-Based Methods
 - [Paper Title](paper_link), *Venue*, Year.
 
 ### Interpretable Modeling and Uncertainty Analysis
