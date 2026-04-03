@@ -83,13 +83,6 @@ A curated list of papers, surveys, benchmarks, datasets, and code repositories o
       <td>-</td>
     </tr>
     <tr>
-      <td>2022.04</td>
-      <td><b>Bayesian Deep Learning for Aircraft Hard Landing Safety Assessment</b></td>
-      <td>IEEE Transactions on Intelligent Transportation Systems</td>
-      <td><a href="https://doi.org/10.1109/TITS.2022.3162566">link</a></td>
-      <td>-</td>
-    </tr>
-    <tr>
       <td>2022.03</td>
       <td><b>A hybrid machine learning and statistical method for anomaly detection in flight data</b></td>
       <td>Applied Sciences</td>
@@ -101,13 +94,6 @@ A curated list of papers, surveys, benchmarks, datasets, and code repositories o
       <td><b>QAR-Driven Dynamic Spatiotemporal Information Fusion for Prediction of Aircraft Carbon Emissions in Different Flight Phases</b></td>
       <td>Applied Energy</td>
       <td><a href="https://doi.org/10.1016/j.apenergy.2024.124646">link</a></td>
-      <td>-</td>
-    </tr>
-    <tr>
-      <td>2025.02</td>
-      <td><b>Active Vision-Based Alarm System for Overrun Events of Takeoff and Landing Aircraft</b></td>
-      <td>IEEE Sensors Journal</td>
-      <td><a href="https://doi.org/10.1109/JSEN.2024.3514703">link</a></td>
       <td>-</td>
     </tr>
     <tr>
