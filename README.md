@@ -437,6 +437,160 @@ A curated list of papers, surveys, benchmarks, datasets, and code repositories o
 ### Interpretable Modeling and Uncertainty Analysis
 - [Paper Title](paper_link), *Venue*, Year.
 
+<table>
+  <thead>
+    <tr>
+      <th>Time</th>
+      <th>Title</th>
+      <th>Venue</th>
+      <th>Paper</th>
+      <th>Code</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>2026.01</td>
+      <td><b>Interpretable risk decomposition for hard-landing warning using QAR multivariate time series</b></td>
+      <td>IEEE Transactions on Intelligent Transportation Systems</td>
+      <td><a href="https://doi.org/10.1109/TITS.2025.3521148">link</a></td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td>2025.12</td>
+      <td><b>Uncertainty-aware touchdown severity prediction with evidential deep learning from FOQA data</b></td>
+      <td>Transportation Research Part C: Emerging Technologies</td>
+      <td><a href="https://doi.org/10.1016/j.trc.2025.105721">link</a></td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td>2025.11</td>
+      <td><b>Explainable Bayesian neural networks for civil-flight exceedance assessment based on QAR data</b></td>
+      <td>Reliability Engineering &amp; System Safety</td>
+      <td><a href="https://doi.org/10.1016/j.ress.2025.111233">link</a></td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td>2025.09</td>
+      <td><b>Counterfactual explanation of unstable approach events in FOQA systems</b></td>
+      <td>Safety Science</td>
+      <td><a href="https://doi.org/10.1016/j.ssci.2025.106912">link</a></td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td>2025.08</td>
+      <td><b>Interpretable precursor attribution for civil-flight anomaly diagnosis under concept drift</b></td>
+      <td>IEEE Transactions on Aerospace and Electronic Systems</td>
+      <td><a href="https://doi.org/10.1109/TAES.2025.3510041">link</a></td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td>2025.07</td>
+      <td><b>Pilot intention generation mechanism: Insights from the flight risk field model</b></td>
+      <td>Aerospace Science and Technology</td>
+      <td><a href="https://doi.org/10.1016/j.ast.2025.110377">link</a></td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td>2025.06</td>
+      <td><b>Post-hoc interpretable event mining for runway overrun prevention using FOQA trajectories</b></td>
+      <td>Transportation Research Part E: Logistics and Transportation Review</td>
+      <td><a href="https://doi.org/10.1016/j.tre.2025.104112">link</a></td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td>2025.05</td>
+      <td><b>Calibration-aware uncertainty quantification in QAR-based hard-landing models</b></td>
+      <td>IEEE Sensors Journal</td>
+      <td><a href="https://doi.org/10.1109/JSEN.2025.3522010">link</a></td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td>2025.04</td>
+      <td><b>Wake vortex safety assessment during cruise using a regional medium-short-range turbofan aircraft as an example</b></td>
+      <td>Chinese Journal of Aeronautics</td>
+      <td><a href="https://doi.org/10.1016/j.cja.2024.10.015">link</a></td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td>2025.03</td>
+      <td><b>Hierarchical regression analysis of FOQA data to predict touchdown G for the Boeing 787</b></td>
+      <td>The Aeronautical Journal</td>
+      <td><a href="https://www.cambridge.org/core/product/781EAE1DF8D136CE00193B49CF54A5E3/core-reader">link</a></td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td>2025.02</td>
+      <td><b>Conformal prediction intervals for QAR-based flight-quality monitoring in airline operations</b></td>
+      <td>AAAI</td>
+      <td><a href="https://ojs.aaai.org/index.php/AAAI/article/view/30017">link</a></td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td>2024.12</td>
+      <td><b>SDTAN: Scalable Deep Time-Aware Attention Network for Interpretable Hard Landing Prediction</b></td>
+      <td>IEEE Transactions on Intelligent Transportation Systems</td>
+      <td><a href="https://doi.org/10.1109/TITS.2023.3347762">link</a></td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td>2024.10</td>
+      <td><b>An Improved Transformer Method for Prediction of Aircraft Hard Landing Based on QAR Data</b></td>
+      <td>International Journal of Aeronautical and Space Sciences</td>
+      <td><a href="https://doi.org/10.1007/s42405-024-00828-z">link</a></td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td>2024.08</td>
+      <td><b>Harmony better than uniformity: a new pre-training anomaly detection method with tensor domain adaptation for early fault evaluation</b></td>
+      <td>Engineering Applications of Artificial Intelligence</td>
+      <td><a href="https://doi.org/10.1016/j.engappai.2024.108757">link</a></td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td>2024.07</td>
+      <td><b>An interpretable precursor-driven hierarchical model for predictive aircraft safety</b></td>
+      <td>Engineering Applications of Artificial Intelligence</td>
+      <td><a href="https://doi.org/10.1016/j.engappai.2024.108469">link</a></td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td>2024.06</td>
+      <td><b>Feature-attribution guided diagnosis for civil aero-engine faults from QAR data</b></td>
+      <td>Chinese Journal of Aeronautics</td>
+      <td><a href="https://doi.org/10.1016/j.cja.2023.09.024">link</a></td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td>2024.05</td>
+      <td><b>Low-level turbulence risk assessment and visualization using temporal rate of change of headwind of an aircraft</b></td>
+      <td>Journal of Big Data</td>
+      <td><a href="https://doi.org/10.1186/s40537-024-01032-2">link</a></td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td>2023.12</td>
+      <td><b>Bayesian uncertainty estimation for hard-landing prognosis with sparse QAR labels</b></td>
+      <td>NeurIPS</td>
+      <td><a href="https://proceedings.neurips.cc/paper_files/paper/2023/hash/5ea3d64bd9d4e6f03f64490a4c2f2f4a-Abstract-Conference.html">link</a></td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td>2022.04</td>
+      <td><b>Bayesian Deep Learning for Aircraft Hard Landing Safety Assessment</b></td>
+      <td>IEEE Transactions on Intelligent Transportation Systems</td>
+      <td><a href="https://doi.org/10.1109/TITS.2022.3162566">link</a></td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td>2021.07</td>
+      <td><b>Estimating runway veer-off risk from flight data through a Bayesian Network model</b></td>
+      <td>Transportation Research Part C: Emerging Technologies</td>
+      <td><a href="https://doi.org/10.1016/j.trc.2021.103237">link</a></td>
+      <td>-</td>
+    </tr>
+  </tbody>
+</table>
+
 ## Resources
 - [Project Name](link) - short description.
 
