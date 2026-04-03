@@ -135,20 +135,6 @@ A curated list of papers, surveys, benchmarks, datasets, and code repositories o
       <td><a href="https://doi.org/10.1186/s40537-024-01032-2">link</a></td>
       <td>-</td>
     </tr>
-    <tr>
-      <td>2021.11</td>
-      <td><b>An incremental clustering method for anomaly detection in flight data</b></td>
-      <td>Transportation Research Part C</td>
-      <td><a href="https://doi.org/10.1016/j.trc.2021.103387">link</a></td>
-      <td>-</td>
-    </tr>
-    <tr>
-      <td>2021.07</td>
-      <td><b>Estimating runway veer-off risk from flight data through a Bayesian Network model</b></td>
-      <td>Transportation Research Part C</td>
-      <td><a href="https://doi.org/10.1016/j.trc.2021.103237">link</a></td>
-      <td>-</td>
-    </tr>
   </tbody>
 </table>
 
